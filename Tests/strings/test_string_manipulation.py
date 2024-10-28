@@ -1,6 +1,6 @@
 # test_string_manipulation.py
 import unittest
-from pysnippets.strings.string_manipulation import (
+from pysnippets.Strings.string_manipulation import (
     reverse_string,
     count_vowels,
     to_uppercase,
@@ -9,6 +9,8 @@ from pysnippets.strings.string_manipulation import (
     word_count,
     character_frequency,
     substring_search,
+    capitalize_words,
+    capitalize_first_word
 )
 
 class TestStringManipulation(unittest.TestCase):
@@ -50,6 +52,20 @@ class TestStringManipulation(unittest.TestCase):
         self.assertTrue(substring_search("hello world", "world"))
         self.assertFalse(substring_search("hello world", "Python"))
         self.assertTrue(substring_search("hello", "hello"))
+
+    def test_capitalize_words(self):
+        # Basic test cases
+        self.assertEqual(capitalize_words("hello world"), "Hello World")
+        self.assertEqual(capitalize_words("hi bye"), "Hi Bye")
+        self.assertEqual(capitalize_words("hi bye good bye"), "Hi Bye Good Bye")
+
+    def test_capitalize_first_word(self):
+        self.assertEqual(capitalize_first_word("hi bye"), "Hi bye")
+        self.assertEqual(capitalize_first_word("hello world"), "Hello world")
+        self.assertEqual(capitalize_first_word("python programming"), "Python programming")
+
+
+
 
 if __name__ == "__main__":
     unittest.main()

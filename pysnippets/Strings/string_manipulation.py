@@ -149,9 +149,48 @@ def substring_search(s: str, sub: str) -> list:
         start += 1  # Move past the last found index
     return indices
 
+
+def capitalize_words(s: str) -> str:
+    """
+    Capitalizes the first letter of each word in the input string using a manual loop.
+
+    Example usage:
+    capitalize_words("hello world") -> "Hello World"
+    """
+    result = []
+    capitalize_next = True
+
+    for char in s:
+        if char.isspace():
+            capitalize_next = True
+            result.append(char)
+        elif capitalize_next:
+            result.append(char.upper())
+            capitalize_next = False
+        else:
+            result.append(char)
+
+    return ''.join(result)
+
+
+def capitalize_first_word(s: str) -> str:
+    """
+    Capitalizes the first letter of the first word in the input string.
+
+    Example usage:
+    capitalize_first_word("hi bye") -> "Hi bye"
+    """
+
+    words = s.split(' ', 1)  # Split into two parts: first word and the rest
+    if words:
+        words[0] = words[0].capitalize()  # Capitalize the first word
+
+    return ' '.join(words)  # Join back the parts
+
 # Example usage of the functions in the script
 if __name__ == "__main__":
     sample_string = "A man a plan a canal Panama"
+    sample_string_capitalized = "a man a plan a canal Panama"
     substring = "a"
     
     print("Original String:", sample_string)
@@ -163,4 +202,5 @@ if __name__ == "__main__":
     print("Word Count:", word_count(sample_string))
     print("Character Frequency:", character_frequency(sample_string))
     print("Substring Indices for '{}':".format(substring), substring_search(sample_string, substring))
-
+    print("Capitalized Words:", capitalize_words(sample_string_capitalized))
+    print("Capitalized The First Words:", capitalize_first_word(sample_string_capitalized))
