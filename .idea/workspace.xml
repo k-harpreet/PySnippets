@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28ed6ecb-8d59-47a3-8a05-f6a1187ead1e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="28ed6ecb-8d59-47a3-8a05-f6a1187ead1e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
     "Python.sort_dict_list.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/my-feature-cocktail-sort",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/gurse/source/repos/py/PySnippets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -176,7 +174,7 @@
       <workItem from="1730687833490" duration="835000" />
       <workItem from="1730688927392" duration="6055000" />
       <workItem from="1731908852586" duration="157000" />
-      <workItem from="1731909108975" duration="3615000" />
+      <workItem from="1731909108975" duration="4703000" />
     </task>
     <servers />
   </component>
