@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28ed6ecb-8d59-47a3-8a05-f6a1187ead1e" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/PySnippets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PySnippets.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cocktail-sort.diff" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pysnippets/Sorting/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pysnippets/Sorting/__init__.py" afterDir="false" />
+>>>>>>> b88830be661b0fa5be2cbe8df4c9c33d473cf535
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +45,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python tests.Doctests in sort_dict_list.executor&quot;: &quot;Run&quot;,
@@ -63,6 +69,32 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Doctests in sort_dict_list.executor": "Run",
+    "Python tests.pytest for quick_sort_test.TestQuickSort.test_quick_sort_descending.executor": "Run",
+    "Python tests.pytest for test_cocktail_sort.TestCocktailSort.test_sort_by_name_descending.executor": "Run",
+    "Python tests.pytest for test_string_manipulation_added.test_to_decode.executor": "Run",
+    "Python tests.pytest in cocktail_sort_test.py.executor": "Run",
+    "Python tests.pytest in test_bubble_sort.py.executor": "Run",
+    "Python tests.pytest in test_cocktail_sort.py.executor": "Run",
+    "Python tests.pytest in test_sort_dict_list.py.executor": "Run",
+    "Python.bubble_sort.executor": "Run",
+    "Python.cocktail_sort.executor": "Run",
+    "Python.sort_dict_list.executor": "Run",
+    "Python.testcase2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/gurse/source/repos/ipos/PySnippets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+>>>>>>> b88830be661b0fa5be2cbe8df4c9c33d473cf535
   }
 }</component>
   <component name="RunManager" selected="Python.cocktail_sort">
@@ -112,7 +144,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="pytest for quick_sort_test.TestQuickSort.test_quick_sort_empty" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="pytest for quick_sort_test.TestQuickSort.test_quick_sort_descending" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+>>>>>>> b88830be661b0fa5be2cbe8df4c9c33d473cf535
       <module name="PySnippets" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +162,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
+<<<<<<< HEAD
       <option name="_new_target" value="&quot;quick_sort_test.TestQuickSort.test_quick_sort_empty&quot;" />
+=======
+      <option name="_new_target" value="&quot;quick_sort_test.TestQuickSort.test_quick_sort_descending&quot;" />
+>>>>>>> b88830be661b0fa5be2cbe8df4c9c33d473cf535
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -168,9 +208,15 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python tests.pytest for quick_sort_test.TestQuickSort.test_quick_sort_empty" />
         <item itemvalue="Python.cocktail_sort" />
         <item itemvalue="Python.sort_dict_list" />
+=======
+        <item itemvalue="Python tests.pytest for quick_sort_test.TestQuickSort.test_quick_sort_descending" />
+        <item itemvalue="Python.sort_dict_list" />
+        <item itemvalue="Python.cocktail_sort" />
+>>>>>>> b88830be661b0fa5be2cbe8df4c9c33d473cf535
         <item itemvalue="Python tests.pytest for test_cocktail_sort.TestCocktailSort.test_sort_by_name_descending" />
         <item itemvalue="Python tests.pytest for test_string_manipulation_added.test_to_decode" />
       </list>
@@ -242,6 +288,11 @@
           <url>file://$PROJECT_DIR$/pysnippets/Sorting/sort_dict_list.py</url>
           <line>118</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pysnippets/Sorting/quick_sort_test.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
