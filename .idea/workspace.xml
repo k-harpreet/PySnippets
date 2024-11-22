@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28ed6ecb-8d59-47a3-8a05-f6a1187ead1e" name="Changes" comment="" />
+    <list default="true" id="28ed6ecb-8d59-47a3-8a05-f6a1187ead1e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PySnippets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PySnippets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cocktail-sort.diff" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,31 +40,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Doctests in sort_dict_list.executor": "Run",
-    "Python tests.pytest for test_cocktail_sort.TestCocktailSort.test_sort_by_name_descending.executor": "Run",
-    "Python tests.pytest for test_string_manipulation_added.test_to_decode.executor": "Run",
-    "Python tests.pytest in cocktail_sort_test.py.executor": "Run",
-    "Python tests.pytest in test_bubble_sort.py.executor": "Run",
-    "Python tests.pytest in test_cocktail_sort.py.executor": "Run",
-    "Python tests.pytest in test_sort_dict_list.py.executor": "Run",
-    "Python.bubble_sort.executor": "Run",
-    "Python.cocktail_sort.executor": "Run",
-    "Python.sort_dict_list.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/gurse/source/repos/py/PySnippets",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Doctests in sort_dict_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for quick_sort_test.TestQuickSort.test_quick_sort_empty.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_cocktail_sort.TestCocktailSort.test_sort_by_name_descending.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_string_manipulation_added.test_to_decode.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in cocktail_sort_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_bubble_sort.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_cocktail_sort.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_sort_dict_list.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bubble_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cocktail_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort_dict_list.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gurse/source/repos/ipos/PySnippets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.cocktail_sort">
     <configuration name="cocktail_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PySnippets" />
       <option name="ENV_FILES" value="" />
@@ -107,6 +112,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for quick_sort_test.TestQuickSort.test_quick_sort_empty" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PySnippets" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pysnippets/Sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;quick_sort_test.TestQuickSort.test_quick_sort_empty&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_cocktail_sort.TestCocktailSort.test_sort_by_name_descending" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PySnippets" />
       <option name="ENV_FILES" value="" />
@@ -145,9 +168,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for quick_sort_test.TestQuickSort.test_quick_sort_empty" />
+        <item itemvalue="Python.cocktail_sort" />
         <item itemvalue="Python.sort_dict_list" />
         <item itemvalue="Python tests.pytest for test_cocktail_sort.TestCocktailSort.test_sort_by_name_descending" />
-        <item itemvalue="Python.cocktail_sort" />
         <item itemvalue="Python tests.pytest for test_string_manipulation_added.test_to_decode" />
       </list>
     </recent_temporary>
@@ -175,11 +199,36 @@
       <workItem from="1730688927392" duration="6055000" />
       <workItem from="1731908852586" duration="157000" />
       <workItem from="1731909108975" duration="4703000" />
+      <workItem from="1732257510866" duration="1995000" />
+      <workItem from="1732260205451" duration="396000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/bug/cocktail_sort" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
