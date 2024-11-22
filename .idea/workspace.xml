@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28ed6ecb-8d59-47a3-8a05-f6a1187ead1e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/Sorting/test_cocktail_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pysnippets/Sorting/cocktail_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Sorting/test_bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Sorting/test_bubble_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pysnippets/Sorting/sort_dict_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/pysnippets/Sorting/sort_dict_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pysnippets/Sorting/sorting.md" beforeDir="false" afterPath="$PROJECT_DIR$/pysnippets/Sorting/sorting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,29 +34,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Doctests in sort_dict_list.executor": "Run",
-    "Python tests.pytest for test_cocktail_sort.TestCocktailSort.test_sort_by_name_descending.executor": "Run",
-    "Python tests.pytest for test_string_manipulation_added.test_to_decode.executor": "Run",
-    "Python tests.pytest in test_bubble_sort.py.executor": "Run",
-    "Python tests.pytest in test_cocktail_sort.py.executor": "Run",
-    "Python tests.pytest in test_sort_dict_list.py.executor": "Run",
-    "Python.bubble_sort.executor": "Run",
-    "Python.cocktail_sort.executor": "Run",
-    "Python.sort_dict_list.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/my-feature-cocktail-sort",
-    "last_opened_file_path": "C:/Users/gurse/source/repos/py/PySnippets",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Doctests in sort_dict_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_cocktail_sort.TestCocktailSort.test_sort_by_name_descending.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_string_manipulation_added.test_to_decode.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_bubble_sort.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_cocktail_sort.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_sort_dict_list.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bubble_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cocktail_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort_dict_list.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/my-feature-cocktail-sort&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gurse/source/repos/py/PySnippets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.sort_dict_list">
     <configuration name="cocktail_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PySnippets" />
